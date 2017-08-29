@@ -1,0 +1,8 @@
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\bin\Debug\DuckGameBLL.exe.config
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\bin\Debug\DuckGameBLL.exe
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\bin\Debug\DuckGameBLL.pdb
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\obj\Debug\DuckGameBLL.csprojResolveAssemblyReference.cache
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\obj\Debug\DuckGameBLL.exe
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\obj\Debug\DuckGameBLL.pdb
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\bin\Debug\DuckGameShared.exe
+C:\Users\aabhassinha\Desktop\Assignments\7&8\Duck Game\DuckGameBLL\bin\Debug\DuckGameShared.pdb
